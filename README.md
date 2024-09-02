@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @franco.luque.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning basic technologies for Web Development (HTML, CSS, Javascript) and useful tools such as git.
-- 💞️ I’m looking to collaborate on Web projects, specifically frontend portions.
+- 🤝🏻I’m looking to collaborate on Web projects, specifically frontend.
 - 📫 How to reach me: Github (https://github.com/Franco-luque), LinkdIn (https://www.linkedin.com/in/franco-luque-5b58a9210/).
 
 <!---
